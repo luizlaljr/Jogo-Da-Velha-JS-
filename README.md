@@ -1,2 +1,2 @@
-# Jogo-Da-Velha-JS-
-Jogo da Velha implementado em Javascript by CDFTV
+# JogoDaVelhaJS
+Jogo da Velha implementado em Javascript by canal do Youtube Código Fonte TV
